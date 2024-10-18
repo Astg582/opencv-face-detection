@@ -19,4 +19,6 @@ This project uses OpenCV to detect faces in real-time using a webcam. It estimat
 2. Install the required libraries:
    ```bash
    pip install opencv-python numpy
-Run the program `QT_QPA_PLATFORM=xcb python3 face_detection.py`
+3. Run the program 
+```bash
+QT_QPA_PLATFORM=xcb python3 face_detection.py
